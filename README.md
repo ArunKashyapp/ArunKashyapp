@@ -36,4 +36,4 @@ src="https://img.shields.io/twitter/follow/oddEEVEN21?logo=twitter&style=for-the
 
 <a href="http://www.github.com/ArunKashyapp"><img src="https://github-readme-stats.vercel.app/api?username=ArunKashyapp&show_icons=true&hide=issues,&count_private=true&title_color=ffffff&text_color=64748b&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="ArunKashyapp's GitHub stats" /></a>
 
-<a href="http://www.github.com/ArunKashyapp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunKashyapp&stroke=64748b&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=64748b&currStreakLabel=ffffff&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+<a href="http://www.github.com/ArunKashyapp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunKashyapp&stroke=64748b&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=64748b&currStreakLabel=ffffff&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
